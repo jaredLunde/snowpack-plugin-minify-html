@@ -1,6 +1,6 @@
 {
   "name": "snowpack-plugin-minify-html",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jaredLunde/snowpack-plugin-minify-html#readme",
   "repository": "github:jaredLunde/snowpack-plugin-minify-html",
   "bugs": "https://github.com/jaredLunde/snowpack-plugin-minify-html/issues",
